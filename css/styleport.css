@@ -149,6 +149,9 @@ div#fifth {
   overflow: hidden;
   background-color: #F2A2A9;
   font-family: 'Pragati Narrow', sans-serif;
+  z-index:1;
+
+
 }
 
 #navbar a {
@@ -180,8 +183,11 @@ div#fifth {
   position: fixed;
   top: 0;
   width: 100%;
+
+
 }
 
 .sticky + .content {
   padding-top: 60px;
+
 }
