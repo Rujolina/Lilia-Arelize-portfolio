@@ -16,6 +16,7 @@ p1, p2, p3, p4, p5, p6 {
 }
 .hero-image {
   background-image: url("../images/retoblue.png");
+  /* image provided by wallpaper access (https://wallpaperaccess.com/90s-computer)*/
   height: 30%;
   background-position: center;
   background-repeat: no-repeat;
