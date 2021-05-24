@@ -8,6 +8,11 @@ body, html {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Righteous', cursive;
+  padding-left: 20px;
+}
+p1, p2, p3, p4, p5, p6 {
+  font-family: 'Pragati Narrow', sans-serif;
+  padding-left: 20px;
 }
 .hero-image {
   background-image: url("../images/retoblue.png");
@@ -112,6 +117,7 @@ div.stuff {
   padding: inherit;
 
 }
+
 .column img {
   margin-top: 8px;
   vertical-align:middle;
